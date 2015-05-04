@@ -49,5 +49,6 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cedric.log@gmail.com
+	email = cedric.lor@gmail.com
+	name = Cedric
 	name = Cedric
